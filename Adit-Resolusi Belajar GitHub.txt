@@ -1,6 +1,10 @@
 Resolusi Belajar GitHub Dasar
 - Lihat Tutorial
+  - Tutorial dari Channel WPU
+  - Tutorial dari Channel terbaru
 - Baca Artikel tentang GitHub
+  - Artikel dari AI
 - AI
-- Tanya Ahli
+  - Konsultasi dengan AI
 - Aksi
+  - Mencoba GitHub dengan panduan Channel WPU dan AI
